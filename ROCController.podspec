@@ -19,7 +19,7 @@ Creating a chat app is insanely hard. Not only the UI but also the data layer. W
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mbalex99' => 'mbalex99@gmail.com' }
-  s.source           = { :git => 'https://github.com/realm/roc-ios-controller.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ezing/roc-ios-controller.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/maxofeden'
 
   s.ios.deployment_target = '10.0'
